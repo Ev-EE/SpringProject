@@ -1,0 +1,5 @@
+use cd SpringProject\kafka
+
+use .\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
+
+then in another terminal use .\bin\windows\kafka-server-start.bat .\config\server.properties
