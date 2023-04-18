@@ -1,4 +1,4 @@
-package com.example.queuepersister;
+package com.example.springproject;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

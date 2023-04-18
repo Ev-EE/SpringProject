@@ -1,4 +1,4 @@
-package com.example.queuepersister.config;
+package com.example.springproject.config;
 
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.apache.kafka.common.serialization.StringSerializer;

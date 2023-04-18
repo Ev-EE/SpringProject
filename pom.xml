@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>queue-persister</artifactId>
+	<artifactId>spring-project</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>MyPersonalProject</name>
 	<description>This project reads a kafka queue and persists the data to a mongoDB database.</description>
