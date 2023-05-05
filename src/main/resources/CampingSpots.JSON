@@ -1,0 +1,32 @@
+[
+  {
+    "name" : "Oakwood Campground",
+    "address" : "200 oak forrest trail",
+    "available spots" : 20
+  },
+  {
+    "name" : "Creekside Camp",
+    "address" : "8544 green rd",
+    "available spots" : 7
+  },
+  {
+    "name" : "Big Valley Campground",
+    "address" : "102 old tree rd",
+    "available spots" : 35
+  },
+  {
+    "name" : "Sandy Beach Cove",
+    "address" : "5310 highway 131",
+    "available spots" : 15
+  },
+  {
+    "name" : "Mudslide Gorge",
+    "address" : "900 county road 15",
+    "available spots" : 8
+  },
+  {
+    "name" : "Mountainville RV park",
+    "address" : "32 cranberry rd",
+    "available spots" : 50
+  }
+]
